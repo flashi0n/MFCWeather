@@ -1,0 +1,14 @@
+찬우:
+2QCEsCsyW0TkbrcMA4lPp4eVfxw0ullYDeB0P6vqRcAI0ZEUrvNaW5VzmonR8PrRbLWsxIMegzE31n9G3cxOxQ%3D%3D
+현규:
+VNtCb%2FWlpQHfMucBsHGSC%2BOYRnIx%2Fvy2DKjr4sXvh4qDgMUt9vcIxH77xVgVnshG%2Bd7eq1lSj5OHUS6FxonzVw%3D%3D
+규진:
+NXT2s%2FE5rIIbHIQq3tOaTquJFKHEaqQWfBruGyI%2FIr6%2FNB2s1jc%2BYC82T%2Bun%2BxuGvxdlbGFiCnZ%2BqXUpXsE%2Fjw%3D%3D
+선모:
+EQhKntS9%2FHtGYKMfWaUYX7DRP2o71gzwz%2BdZIVjt2KonX5jGciH2oIKIiFq5VOFlkwx67LQVzvIwD%2FgyhMmqfw%3D%3D
+현규2:
+7cqqyZ66TiNsXF3RF3b1yrwmXgSjoe%2BUA%2BaajA7MR9vQxlkQylJtQrrBF%2BmKTxIKSfxmmk7shprZSOU6OjIAxA%3D%3D
+
+http://newsky2.kma.go.kr/service/SecndSrtpdFrcstInfoService2/ForecastSpaceData?serviceKey=2QCEsCsyW0TkbrcMA4lPp4eVfxw0ullYDeB0P6vqRcAI0ZEUrvNaW5VzmonR8PrRbLWsxIMegzE31n9G3cxOxQ%3D%3D&base_date20181212&base_time=2353&nx=55&ny=127&pageNo=1&numOfRows=24
+
+http://newsky2.kma.go.kr/service/SecndSrtpdFrcstInfoService2/ForecastSpaceData?serviceKey=VNtCb%2FWlpQHfMucBsHGSC%2BOYRnIx%2Fvy2DKjr4sXvh4qDgMUt9vcIxH77xVgVnshG%2Bd7eq1lSj5OHUS6FxonzVw%3D%3D&base_date=20181212&base_time=2300&nx=55&ny=127&pageNo=1&numOfRows=24
